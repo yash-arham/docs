@@ -86,6 +86,13 @@
         ]
       },
       {
+        "group": "Blog settings",
+        "pages": [
+          "blog-settings",
+          "blog-post"
+        ]
+      },
+      {
         "group": "Overlay",
         "pages": [
           "newsletter-popup",
@@ -111,13 +118,6 @@
           "the-house-page",
           "404-page",
           "password-page"
-        ]
-      },
-      {
-        "group": "Blog settings",
-        "pages": [
-          "blog-settings",
-          "blog-post"
         ]
       }
     ]
