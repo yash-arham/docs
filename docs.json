@@ -38,6 +38,12 @@
           "announcement-bar",
           "header"
         ]
+      },
+      {
+        "group": "Sections",
+        "pages": [
+          "featured-product"
+        ]
       }
     ]
   },
