@@ -18,20 +18,29 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    "groups": [
+      {
+        "group": "Categories",
+        "pages": [
+          "index",
+          "installation-guide",
+          "theme-settings-overview",
+          "announcement-bar",
+          "header-section",
+          "footer-section",
+          "blog-settings",
+          "blog-post",
+          "cart",
+          "product-page",
+          "collection-page",
+          "troubleshooting-and-faqs"
+        ]
+      },
+      {
+        "group": "Sections & Blocks",
+        "pages": []
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
