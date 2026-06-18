@@ -20,7 +20,7 @@
     ],
     "groups": [
       {
-        "group": "Categories",
+        "group": "Getting Started",
         "pages": [
           "index",
           "installation-guide",
