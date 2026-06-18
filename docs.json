@@ -23,22 +23,14 @@
         "group": "Getting Started",
         "pages": [
           "index",
-          "installation-guide",
-          "theme-settings-overview",
-          "announcement-bar",
-          "header-section",
-          "footer-section",
-          "blog-settings",
-          "blog-post",
-          "cart",
-          "product-page",
-          "collection-page",
-          "troubleshooting-and-faqs"
+          "installation-guide"
         ]
       },
       {
-        "group": "Sections & Blocks",
-        "pages": []
+        "group": "Theme Settings",
+        "pages": [
+          "theme-settings"
+        ]
       }
     ]
   },
