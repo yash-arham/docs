@@ -41,7 +41,77 @@
       },
       {
         "group": "Sections",
-        "pages": []
+        "pages": [
+          "featured-product",
+          "image-with-text",
+          "contact-form",
+          "article",
+          "article-related",
+          "ateliers",
+          "blog-carousel",
+          "blog-header",
+          "blog-posts",
+          "centered-cta",
+          "collection-rail",
+          "contact-header",
+          "countdown-banner",
+          "craftmanship-band",
+          "editorial-header",
+          "faq",
+          "faq-accordion",
+          "faq-help-cta",
+          "faq-with-groups",
+          "faq-2-column",
+          "featured-article",
+          "featured-collections",
+          "footer",
+          "hero",
+          "hero-slideshow",
+          "icon-features",
+          "marquee-strip",
+          "material-study",
+          "media-collage",
+          "milestone-timeline",
+          "press-band",
+          "product-carousel",
+          "product-grid",
+          "product-strip",
+          "pull-quote-body",
+          "shop-the-look",
+          "split-hero",
+          "testimonials",
+          "ticket-trust-bar",
+          "values-grid",
+          "video-feature"
+        ]
+      },
+      {
+        "group": "Overlay",
+        "pages": [
+          "newsletter-popup",
+          "cart-drawer",
+          "quick-view",
+          "collection-filter",
+          "size-chart",
+          "predictive-search",
+          "mobile-menu"
+        ]
+      },
+      {
+        "group": "Pages",
+        "pages": [
+          "product-page",
+          "collection-page",
+          "cart-page",
+          "search-page",
+          "collection-list-page",
+          "about-us-page",
+          "contact-page",
+          "faq-page",
+          "the-house-page",
+          "404-page",
+          "password-page"
+        ]
       },
       {
         "group": "Blog settings",
