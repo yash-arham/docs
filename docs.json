@@ -33,10 +33,15 @@
         ]
       },
       {
-        "group": "Sections",
+        "group": "Header",
         "pages": [
           "announcement-bar",
-          "header",
+          "header"
+        ]
+      },
+      {
+        "group": "Sections",
+        "pages": [
           "featured-product",
           "image-with-text",
           "contact-form",
