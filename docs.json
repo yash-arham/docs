@@ -8,8 +8,8 @@
     "dark": "#4f1a1a"
   },
   "favicon": {
-    "light": "/images/aurum_icon_500_500.png",
-    "dark": "/images/aurum_icon_500_500.png"
+    "light": "/images/aurum_icon_500_500.webp",
+    "dark": "/images/aurum_icon_500_500.webp"
   },
   "navigation": {
     "pages": [
