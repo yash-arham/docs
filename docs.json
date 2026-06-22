@@ -140,5 +140,8 @@
       "label": "Try Theme",
       "href": "https://example.com"
     }
+  },
+  "appearance": {
+    "default": "dark"
   }
 }
