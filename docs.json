@@ -3,9 +3,9 @@
   "theme": "aspen",
   "name": "Sentiment theme",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#d9c6b3",
+    "light": "#f1e4d4",
+    "dark": "#d9c6b3"
   },
   "favicon": {
     "light": "/images/aurum_icon_500_500.png",
@@ -142,6 +142,7 @@
     }
   },
   "appearance": {
-    "default": "dark"
+    "default": "dark",
+    "strict": true
   }
 }
