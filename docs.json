@@ -126,7 +126,12 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [],
+    "links": [
+      {
+        "href": "https://arhamwebworks.com",
+        "label": "Support"
+      }
+    ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
