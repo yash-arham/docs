@@ -22,14 +22,7 @@
       {
         "group": "Getting Started",
         "pages": [
-          "index",
-          "quickstart"
-        ]
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
+          "introduction",
           "installation-guide"
         ]
       },
