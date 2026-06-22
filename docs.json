@@ -23,6 +23,13 @@
         "group": "Getting Started",
         "pages": [
           "index",
+          "quickstart"
+        ]
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
           "installation-guide"
         ]
       },
@@ -134,8 +141,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Try Theme",
+      "href": "https://example.com"
     }
   }
 }
