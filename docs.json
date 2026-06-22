@@ -7,7 +7,10 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/aurum_icon_500_500.png",
+    "dark": "/images/aurum_icon_500_500.png"
+  },
   "navigation": {
     "pages": [
       {
@@ -122,8 +125,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/aurum_logo.png",
+    "dark": "/images/aurum_logo.png"
   },
   "navbar": {
     "links": [
