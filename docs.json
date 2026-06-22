@@ -3,9 +3,9 @@
   "theme": "aspen",
   "name": "Sentiment theme",
   "colors": {
-    "primary": "#d9c6b3",
+    "primary": "#4f1a1a",
     "light": "#f1e4d4",
-    "dark": "#d9c6b3"
+    "dark": "#4f1a1a"
   },
   "favicon": {
     "light": "/images/aurum_icon_500_500.png",
@@ -124,10 +124,6 @@
       }
     ]
   },
-  "logo": {
-    "light": "/images/aurum_logo.png",
-    "dark": "/images/aurum_logo.png"
-  },
   "navbar": {
     "links": [
       {
@@ -142,7 +138,7 @@
     }
   },
   "appearance": {
-    "default": "dark",
+    "default": "light",
     "strict": true
   }
 }
