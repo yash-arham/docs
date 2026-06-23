@@ -93,7 +93,7 @@
       {
         "group": "Blog settings",
         "pages": [
-          "blog-settings",
+          "blog-page",
           "blog-post"
         ]
       },
